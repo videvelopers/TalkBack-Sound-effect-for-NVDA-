@@ -8,7 +8,7 @@ The TalkBack Sound effect for NVDA is a plugin that plays sounds based on object
 
 To install the TalkBack Sound effect for NVDA, follow these steps:
 
-1. Download the latest version from the GitHub repository.
+1. Download the latest version from the [GitHub repository.](https://raw.githubusercontent.com/videvelopers/TalkBack-Sound-effect-for-NVDA-/main/TalkBack%20Sound%20Effect%20V2.0.0.nvda-addon)
 
 2. Open NVDA and go to the menu `Tools -> Manage add-ons`.
 
